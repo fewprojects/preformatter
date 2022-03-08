@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fewprojects.github.io/preformatter/static/css/main.d31c70e7.css",
-    "main.js": "/fewprojects.github.io/preformatter/static/js/main.69fe5d12.js",
+    "main.js": "/fewprojects.github.io/preformatter/static/js/main.d3cbd018.js",
     "index.html": "/fewprojects.github.io/preformatter/index.html",
     "main.d31c70e7.css.map": "/fewprojects.github.io/preformatter/static/css/main.d31c70e7.css.map",
-    "main.69fe5d12.js.map": "/fewprojects.github.io/preformatter/static/js/main.69fe5d12.js.map"
+    "main.d3cbd018.js.map": "/fewprojects.github.io/preformatter/static/js/main.d3cbd018.js.map"
   },
   "entrypoints": [
     "static/css/main.d31c70e7.css",
-    "static/js/main.69fe5d12.js"
+    "static/js/main.d3cbd018.js"
   ]
 }

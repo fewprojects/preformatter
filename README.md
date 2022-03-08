@@ -24,7 +24,7 @@ Convert < and > to ```&lt;``` and ```&gt;``` to use in ```<pre>``` tag.
 <pre>
 &lt;div className="container-980"&gt;
     &lt;h1&gt;Hello World&lt;/h1&gt;
-&lt;/div&gt;  ;
+&lt;/div&gt;
 </pre>
 ```
 

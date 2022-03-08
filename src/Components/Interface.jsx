@@ -27,7 +27,7 @@ function Interface() {
   return (
     <div className="container-980 interface flex-c-m">
       <div className="row">
-        <div className="">
+        <div className="container">
           <h2>Convert <span className="text-gray">{`</>`}</span> to <span className="text-gray">{`&lt;/&gt;`}</span></h2>
           <p className="fw-600">A pre tag formatter for <span className="text-display">developers</span></p>
         </div>

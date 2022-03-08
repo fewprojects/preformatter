@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/preformatter/static/css/main.d31c70e7.css",
-    "main.js": "/preformatter/static/js/main.804d4f03.js",
+    "main.js": "/preformatter/static/js/main.f69c33e7.js",
     "index.html": "/preformatter/index.html",
     "main.d31c70e7.css.map": "/preformatter/static/css/main.d31c70e7.css.map",
-    "main.804d4f03.js.map": "/preformatter/static/js/main.804d4f03.js.map"
+    "main.f69c33e7.js.map": "/preformatter/static/js/main.f69c33e7.js.map"
   },
   "entrypoints": [
     "static/css/main.d31c70e7.css",
-    "static/js/main.804d4f03.js"
+    "static/js/main.f69c33e7.js"
   ]
 }

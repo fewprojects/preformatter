@@ -2,7 +2,7 @@
 
 Convert < and > to &lt; and &gt; to use in ```<pre>``` tag.
 
-#### Try it 👉 [here](https://fewprojects.github.io/preformatter/)
+## Try it 👉 [here](https://fewprojects.github.io/preformatter/)
 
 ## When to use preformatter
 

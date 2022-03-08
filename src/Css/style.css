@@ -1,1 +1,13 @@
-.header{height:auto;}.header.linksa{margin:02rem;}.interface{height:auto;}.footer{height:auto;}
+.header{
+    height:10vh;
+} 
+.header .links a
+{
+    margin:0 2rem;
+}
+.interface{
+    height:auto;
+}
+.footer{
+    height:auto;
+}

@@ -1,6 +1,6 @@
 # preformatter
 
-Convert < and > to &lt; and &gt; to use in ```<pre>``` tag.
+Convert < and > to ```&lt;``` and ```&gt;``` to use in ```<pre>``` tag.
 
 ## Try it 👉 [here](https://fewprojects.github.io/preformatter/)
 
